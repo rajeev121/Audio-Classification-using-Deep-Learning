@@ -1,6 +1,8 @@
 # Audio-Classification-using-Deep-Learning
 This project aims to use deep learning techniques for audio classification, with a focus on detecting the presence and density of capuchin birds in specific regions based on 3-second audio recordings. The project will leverage three datasets: capuchin bird audio files, non-capuchin bird audio files, and forest soundscapes.
 
+Data Set You can Download from kaggle:- https://www.kaggle.com/datasets/kenjee/z-by-hp-unlocked-challenge-3-signal-processing
+
 
 Introduction: Start with a brief introduction to the project, including its goals and objectives. For instance, you can mention that this project focuses on audio classification using deep learning techniques to detect the presence and density of capuchin birds in specific regions based on 3-second audio recordings.
 
